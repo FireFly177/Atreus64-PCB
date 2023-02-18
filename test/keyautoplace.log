@@ -1,0 +1,5 @@
+17:25:19 kicad-kle-placer.kle_placer_action 495: Plugin executed with python version: '3.9.14 (main, Sep 19 2022, 05:11:57) [MSC v.1932 64 bit (AMD64)]'
+17:25:43 kicad-kle-placer.kle_placer_action 510: User layout: Keyboard(meta=KeyboardMetadata(backcolor='#eeeeee', name='', author='', notes='', background=None, radii='', switchMount='', switchBrand='', switchType='', plate=False, pcb=False), keys=[])
+17:25:43 kicad-kle-placer.kle_placer_action 179: []
+17:25:43 kicad-kle-placer.kle_placer_action 132: Searching for SW1 footprint
+17:25:43 kicad-kle-placer.kle_placer_action 135: Footprint not found
